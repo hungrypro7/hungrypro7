@@ -1,2 +1,2 @@
 ### Hi there 👋
-### Hello, my name is Chanyoung lee.
+### Hello, my name is Chanyoung Lee.
