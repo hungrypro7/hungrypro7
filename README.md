@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Hello, my name is Chanyoung Lee.
-<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB">
-<img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-%23F7DF1E">
-<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=C&logoColor=white">
+
