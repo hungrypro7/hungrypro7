@@ -8,4 +8,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
 </div>
 
+<br>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&langs_count=10&layout=compact&theme=dark)](https://github.com/hungrypro7/hungrypro7)﻿
