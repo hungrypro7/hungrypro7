@@ -9,5 +9,5 @@
 </div>
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&layout=compact)](https://github.com/hungrypro7/github-readme-stats)
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&layout=compact)](https://github.com/hungrypro7/github-readme-stats)">
 </div>
