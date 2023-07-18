@@ -7,3 +7,7 @@
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
 </div>
+
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&layout=compact)](https://github.com/hungrypro7/github-readme-stats)
+</div>
