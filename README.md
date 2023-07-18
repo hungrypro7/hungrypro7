@@ -1,2 +1,4 @@
 ### Hi there 👋
 ### Hello, my name is Chanyoung Lee.
+
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
