@@ -1,5 +1,6 @@
 ### Hi there 👋
-### Hello, my name is Chanyoung Lee.
+### Hello, my name is Chanyoung Lee.   
+### I'm intersted in autonomous driving, computer vision, AI and IoT
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
