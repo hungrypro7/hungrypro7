@@ -19,4 +19,4 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcy1221)](https://solved.ac/lcy1221/)
+# [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcy1221)](https://solved.ac/lcy1221/)
