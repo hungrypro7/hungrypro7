@@ -22,3 +22,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&layout=compact&theme=dark)](https://github.com/hungrypro7/hungrypro7)
 
 <br>
+
+## 🏅 활동 및 수상경력 
+**[2023]**
+- 한양대학교 이민식 교수님 Vision Modeling Lab에서 학부연구생 (2023.08~)
+- 대학생 창작 모빌리티 경진대회 베스트 루키상 (한국자동차안전학회장, 2023.10)
+- 제5회 SW 창업 메이커톤 우수상 (한양대학교 SW 중심대학사업단, 2023.06) 
+- 한양대학교 ERICA 자작자동차 학회 BAQU4 제어팀 (2023.03~)
+
+**[2022]** 
+- 공학교육혁신센터 학생기자단 (2022.03~2023.02)
