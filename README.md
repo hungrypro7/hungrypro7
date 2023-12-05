@@ -16,10 +16,7 @@
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
