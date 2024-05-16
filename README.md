@@ -1,6 +1,6 @@
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
-<!--### I'm interested in Autonomous Driving, Computer Vision, AI and IoT-->
+I'm interested in Autonomous Driving, Computer Vision, AI and IoT.
 
 <br>
 
