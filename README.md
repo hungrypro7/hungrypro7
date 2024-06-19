@@ -7,6 +7,7 @@
 ## 📞 Contact
 ### Please feel free to contact me at the email address below!   
 lcy1221@hanyang.ac.kr
+cylee2112@gmail.com
 
 <br>
 
