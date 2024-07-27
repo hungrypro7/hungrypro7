@@ -43,7 +43,7 @@ lcy1221@hanyang.ac.kr  or   cylee2112@gmail.com
 **[2024]**
 - 카카오 tech bootcamp 클라우드 과정 (2024.07~)
 - 2024 ICT 융합학부 캡스톤 디자인 경진대회 최우수상 (한양대학교 SW 융합대학장, 2024.05)
-- 현대자동차 H-Mobility Class 자율주행 과정 (2024.03~)
+- 현대자동차 H-Mobility Class 자율주행 과정 (2024.03~2024.07)
 
 **[2023]**
 - 한양대학교 이민식 교수님 Vision & Machine learning Lab 학부연구생 (2023.08~2024.02)
