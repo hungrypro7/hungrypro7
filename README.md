@@ -57,5 +57,5 @@ lcy1221@hanyang.ac.kr  or   cylee2112@gmail.com
 - 한양대학교 ERICA 공학교육혁신센터 학생기자단 (2022.03~2023.02)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{chanyoung}"/>
+  <img src="https://render.gitanimals.org/farms/{Chanyoung}"/>
 </a>
