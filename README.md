@@ -1,8 +1,9 @@
 ## 🙋🏻‍♂️ Introduction
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
+### I'm currently working as an autonomous LiDAR Perception Engineer.
 ### I'm interested in Autonomous Driving, Computer Vision, AI, Cloud Engineering and IoT.
-### I'm currently working as an autonomous LiDAR perception engineer.
+
 
 <br>
 
