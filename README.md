@@ -2,12 +2,13 @@
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
 ### I'm interested in Autonomous Driving, Computer Vision, AI, Cloud Engineering and IoT.
+### I'm currently working as an autonomous LiDAR perception engineer.
 
 <br>
 
 ## 📞 Contact
 ### Please feel free to contact me at the email address below!   
-lcy1221@hanyang.ac.kr  or   cylee2112@gmail.com
+cyl@vueron.com or cylee2112@gmail.com
 
 <br>
 
