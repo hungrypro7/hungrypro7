@@ -51,7 +51,7 @@ cyl@vueron.com or cylee2112@gmail.com
 
 ## 🏅 활동 및 수상경력 
 **[2024]**
-- Vueron Technology 입사 (2024.10~2025.01)
+- 뷰런테크놀로지 Perception Engineer (2024.10~2025.01)
 - 카카오 tech bootcamp 클라우드 과정 (2024.07~2024.10)
 - 한양대학교 ERICA ICT융합학부 졸업 [복수전공 : 컴퓨터학부] (2024.08)
 - 2024 ICT 융합학부 캡스톤 디자인 경진대회 최우수상 (한양대학교 SW 융합대학장, 2024.05)
