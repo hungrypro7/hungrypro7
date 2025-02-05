@@ -71,4 +71,4 @@ cyl@vueron.com or cylee2112@gmail.com
 
 ## 🐱 Github Activity
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungrypro7&include_all_commits=true&show_icons=true&theme=cobalt)
+![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungrypro7&include_all_commits=true&show_icons=true&theme=cobalt)
