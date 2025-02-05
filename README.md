@@ -12,7 +12,7 @@
 
 ## 📞 Contact
 ### Please feel free to contact me at the email address below!   
-cyl@vueron.com or cylee2112@gmail.com
+cylee2112@gmail.com
 
 <br>
 
