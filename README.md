@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Chanyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+<br>
+
 ## 🙋🏻‍♂️ Introduction
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
