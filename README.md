@@ -12,7 +12,7 @@
 
 ## 📞 Contact
 ### Please feel free to contact me at the contact information below!   
-🇰🇷 +82-10-6512-2476   
+![image](https://github.com/user-attachments/assets/85abfce7-7575-493c-aca2-d02455ae2973) +82-10-6512-2476   
 cylee2112@gmail.com
 
 <br>
