@@ -79,4 +79,5 @@ cylee2112@gmail.com
 
 ## 🐱 Github Activity
 
-![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungrypro7&include_all_commits=true&show_icons=true&theme=cobalt)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hungrypro7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
