@@ -79,5 +79,5 @@ cylee2112@gmail.com
 
 ## 🐱 Github Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hungrypro7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hungrypro7)](https://git.io/streak-stats)   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hungrypro7)](https://github.com/ashutosh00710/github-readme-activity-graph)
