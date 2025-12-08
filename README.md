@@ -49,7 +49,7 @@ cylee2112@gmail.com or nemo.chan@kakaomobility.com
 <br>
 <br>
 
-<a href="https://github.com/hungrypro7"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&layout=compact&theme=nord&hide_border=true" /></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&langs_count=10&layout=compact&theme=dark)](https://github.com/hungrypro7/hungrypro7)﻿
 
 <br>
 
