@@ -12,7 +12,8 @@
 
 ## 📞 Contact
 ### Please feel free to contact me at the contact information below!   
-(KOR)+82-10-6512-2476   
+(KOR)+82-10-6512-2476
+
 cylee2112@gmail.com
 
 <br>
