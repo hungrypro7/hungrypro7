@@ -53,30 +53,35 @@ cylee2112@gmail.com
 
 <br>
 
-## 🏅 활동 및 수상경력 
-**[2025]**
-- 카카오모빌리티 DeepAI팀 인턴 (2025.04~2025.12)
-- 딥러닝 논문읽기 모임 7기 (2025.02~)
+## 🏅 Activities & Awards 
 
+--[2025]--
 
-**[2024]**
-- 뷰런테크놀로지 Perception Engineer (2024.10~2025.01)
-- 카카오 tech bootcamp 클라우드 과정 (2024.07~2024.10)
-- 한양대학교 ICT융합학부 졸업 [복수전공 : 컴퓨터학부] (2024.08)
-- 2024 ICT 융합학부 캡스톤 디자인 경진대회 최우수상 (한양대학교 SW 융합대학장, 2024.05)
-- 현대자동차 H-Mobility Class 자율주행 과정 (2024.03~2024.07)
-  
-**[2023]**
-- 한양대학교 Vision & Machine learning Lab 학부연구생 (2023.08~2024.02)
-- 산학캡스톤 '도로상황 실시간 디지털 트윈 3D VIEW' 프로젝트 (KT, 2023.09~2024.05)
-- 2023 한양대학교 공학대학 학술제 대상 (한양대학교 공학대학장, 2023.11)
-- 2023 대학생 창작 모빌리티 경진대회 자율주행성능부문 신규참가팀 1위 베스트 루키상 (한국자동차안전학회장, 2023.10)
-- 제5회 SW 창업 메이커톤 우수상 (한양대학교 SW 중심대학사업단, 2023.06) 
-- 한양대학교 자작자동차 학회 Baqu4 자율주행팀 (2023.03~)
+- 2nd Prize, Kakao Mobility AI Hackathon (KAMOTON) (Dec 2025)
+- Intern, DeepAI Team — Kakao Mobility (Apr 2025 – Dec 2025)
+- Deep Learning Paper Reading Group, 7th Cohort (Feb 2025 – Present)
 
-**[2022]** 
-- 한양대학교 공학교육혁신센터 학생기자단 (2022.03~2023.02)
-  
+--[2024]--
+
+- Perception Engineer — Vueron Technology (Oct 2024 – Jan 2025)
+- Kakao Tech Bootcamp — Cloud Program (Jul 2024 – Oct 2024)
+- B.S. in ICT Convergence, Hanyang University (Double Major : Computer Science) (Aug 2024)
+- Grand Prize / Best Excellence Award, ICT Convergence Capstone Design Competition — Hanyang University (May 2024)
+- Hyundai Motor Company H-Mobility Class — Autonomous Driving Program (Mar 2024 – Jul 2024)
+
+--[2023]--
+
+- Undergraduate Researcher, Vision & Machine Learning Lab — Hanyang University (Aug 2023 – Feb 2024)
+- Industry-Academia Capstone Project: “Real-Time Digital Twin 3D View for Road Conditions” — KT (Sep 2023 – May 2024)
+- Grand Prize, Engineering College Academic Festival — Hanyang University (Nov 2023)
+- Best Rookie Award (1st Place, New Team), University Creative Mobility Competition (Autonomous Driving Performance Division Korea Automotive Safety Association President’s Award) (Oct 2023)
+- Excellence Award, 5th SW Startup Makerthon — Hanyang University (Jun 2023)
+- Baqu4 (Student-built Vehicle Club), Autonomous Driving Team — Hanyang University (Mar 2023 – Present)
+
+--[2022]--
+
+- Student Reporter, Center for Engineering Education Innovation — Hanyang University (Mar 2022 – Feb 2023)
+ 
 <br>
 
 
