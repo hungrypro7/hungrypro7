@@ -55,13 +55,13 @@ cylee2112@gmail.com
 
 ## 🏅 Activities & Awards 
 
---[2025]--
+**2025**
 
 - 2nd Prize, Kakao Mobility AI Hackathon (KAMOTON) (Dec 2025)
 - Intern, DeepAI Team — Kakao Mobility (Apr 2025 – Dec 2025)
 - Deep Learning Paper Reading Group, 7th Cohort (Feb 2025 – Present)
 
---[2024]--
+**2024**
 
 - Perception Engineer — Vueron Technology (Oct 2024 – Jan 2025)
 - Kakao Tech Bootcamp — Cloud Program (Jul 2024 – Oct 2024)
@@ -69,7 +69,7 @@ cylee2112@gmail.com
 - Grand Prize / Best Excellence Award, ICT Convergence Capstone Design Competition — Hanyang University (May 2024)
 - Hyundai Motor Company H-Mobility Class — Autonomous Driving Program (Mar 2024 – Jul 2024)
 
---[2023]--
+**2023**
 
 - Undergraduate Researcher, Vision & Machine Learning Lab — Hanyang University (Aug 2023 – Feb 2024)
 - Industry-Academia Capstone Project: “Real-Time Digital Twin 3D View for Road Conditions” — KT (Sep 2023 – May 2024)
@@ -78,7 +78,7 @@ cylee2112@gmail.com
 - Excellence Award, 5th SW Startup Makerthon — Hanyang University (Jun 2023)
 - Baqu4 (Student-built Vehicle Club), Autonomous Driving Team — Hanyang University (Mar 2023 – Present)
 
---[2022]--
+**2022**
 
 - Student Reporter, Center for Engineering Education Innovation — Hanyang University (Mar 2022 – Feb 2023)
  
