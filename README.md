@@ -60,7 +60,7 @@ cylee2112@gmail.com
 
 - 2nd Prize, AI Hackathon (KAMOTON) — Kakao Mobility (Dec 2025)
 - Intern, DeepAI Team — Kakao Mobility (Apr 2025 – Dec 2025)
-- Computer Vision Team (7th Cohort) - Deep Learning Paper Reading Group (Feb 2025 – Present)
+- Computer Vision Team (7th Cohort) — Deep Learning Paper Reading Group (Feb 2025 – Present)
 
 **[2024]**
 
