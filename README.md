@@ -64,10 +64,10 @@ cylee2112@gmail.com
 **[2024]**
 
 - Perception Engineer — Vueron Technology (Oct 2024 – Jan 2025)
-- Kakao Tech Bootcamp — Cloud Program (Jul 2024 – Oct 2024)
+- Cloud Program — Kakao Tech Bootcamp (Jul 2024 – Oct 2024)
 - B.S. in ICT Convergence, Hanyang University (Double Major : Computer Science) (Aug 2024)
 - Grand Prize / Best Excellence Award, ICT Convergence Capstone Design Competition — Hanyang University (May 2024)
-- Hyundai Motor Company H-Mobility Class — Autonomous Driving Program (Mar 2024 – Jul 2024)
+- H-Mobility Class Autonomous Driving Program — Hyundai Motor Company (Mar 2024 – Jul 2024)
 
 **[2023]**
 
