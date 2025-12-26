@@ -59,12 +59,12 @@ cylee2112@gmail.com
 **[2025]**
 
 - 2nd Prize, AI Hackathon (KAMOTON) — Kakao Mobility (Dec 2025)
-- Intern, Team DeepAI — Kakao Mobility (Apr 2025 – Dec 2025)
+- Intern, DeepAI Team — Kakao Mobility (Apr 2025 – Dec 2025)
 - Computer Vision Team (7th Cohort) — Deep Learning Paper Reading Group (Feb 2025 – Present)
 
 **[2024]**
 
-- Perception Engineer, Team Autonomous driving — Vueron Technology (Oct 2024 – Jan 2025)
+- Perception Engineer, Autonomous driving Team — Vueron Technology (Oct 2024 – Jan 2025)
 - Cloud Program — Kakao Tech Bootcamp (Jul 2024 – Oct 2024)
 - B.S. in ICT Convergence, Hanyang University (Double Major : Computer Science) (Aug 2024)
 - Grand Prize / Best Excellence Award, ICT Convergence Capstone Design Competition — Hanyang University (May 2024)
