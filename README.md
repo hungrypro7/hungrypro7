@@ -5,7 +5,7 @@
 ## 🙋🏻‍♂️ Introduction
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
-### I'm interested in Autonomous Driving, Vision AI, Embedded SW and IoT.
+### I'm interested in Autonomous Driving, Vision AI, Physical AI, Embedded SW and IoT.
 
 
 <br>
