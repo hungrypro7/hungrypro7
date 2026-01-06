@@ -81,7 +81,7 @@ cylee2112@gmail.com
 - Grand Prize, Engineering College Academic Festival — Hanyang University (Nov 2023)
 - Best Rookie Award (1st Place, New Team), University Creative Mobility Competition (Autonomous Driving Performance Division Korea Automotive Safety Association President’s Award) (Oct 2023)
 - Excellence Award, 5th SW Startup Makerthon — Hanyang University (Jun 2023)
-- Baqu4 (Student-built Vehicle Club), Autonomous Driving Team — Hanyang University (Mar 2023 – Present)
+- Baqu4 (Student-built Vehicle Club), Autonomous Driving Team — Hanyang University (Mar 2023 – Jul 2024)
 
 **[2022]**
 
