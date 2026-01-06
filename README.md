@@ -56,6 +56,10 @@ cylee2112@gmail.com
 
 ## 🏅 Activities & Awards 
 
+**[2026]**
+
+- M.S. in Automotive Engineering, Hanyang University (Mar 2026 – on schedule)
+
 **[2025]**
 
 - 2nd Prize, AI Hackathon (KAMOTON) — Kakao Mobility (Dec 2025)
