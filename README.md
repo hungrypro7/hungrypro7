@@ -50,9 +50,7 @@ cylee2112@gmail.com
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrypro7&langs_count=10&layout=compact&theme=dark)](https://github.com/hungrypro7/hungrypro7)﻿
-
-<br>
+## 👨🏻 My Profile page
 
 View [details](https://hungrypro7.github.io/)
  
