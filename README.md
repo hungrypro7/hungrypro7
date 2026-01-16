@@ -54,38 +54,7 @@ cylee2112@gmail.com
 
 <br>
 
-## 🏅 Activities & Awards 
-
-**[2026]**
-
-- M.S. in Automotive Engineering, Hanyang University (Mar 2026 – on schedule)
-
-**[2025]**
-
-- 2nd Prize, AI Hackathon (KAMOTON) — Kakao Mobility (Dec 2025)
-- Intern, DeepAI Team — Kakao Mobility (Apr 2025 – Dec 2025)
-- Computer Vision Team (7th Cohort) — Deep Learning Paper Reading Group (Feb 2025 – Present)
-
-**[2024]**
-
-- Perception Engineer, Autonomous driving Team — Vueron Technology (Oct 2024 – Jan 2025)
-- Cloud Program — Kakao Tech Bootcamp (Jul 2024 – Oct 2024)
-- B.S. in ICT Convergence, Hanyang University (Double Major : Computer Science) (Aug 2024)
-- Grand Prize / Best Excellence Award, ICT Convergence Capstone Design Competition — Hanyang University (May 2024)
-- H-Mobility Class Autonomous Driving Program — Hyundai Motor Company (Mar 2024 – Jul 2024)
-
-**[2023]**
-
-- Undergraduate Researcher, Vision & Machine Learning Lab — Hanyang University (Aug 2023 – Feb 2024)
-- Industry-Academia Capstone Project: “Real-Time Digital Twin 3D View for Road Conditions” — KT (Sep 2023 – May 2024)
-- Grand Prize, Engineering College Academic Festival — Hanyang University (Nov 2023)
-- Best Rookie Award (1st Place, New Team), University Creative Mobility Competition (Autonomous Driving Performance Division Korea Automotive Safety Association President’s Award) (Oct 2023)
-- Excellence Award, 5th SW Startup Makerthon — Hanyang University (Jun 2023)
-- Baqu4 (Student-built Vehicle Club), Autonomous Driving Team — Hanyang University (Mar 2023 – Jul 2024)
-
-**[2022]**
-
-- Student Reporter, Center for Engineering Education Innovation — Hanyang University (Mar 2022 – Feb 2023)
+View [details](https://hungrypro7.github.io/)
  
 <br>
 
