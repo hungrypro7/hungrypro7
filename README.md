@@ -6,7 +6,7 @@
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
 ### I'm interested in Autonomous Driving, Vision AI, Physical AI.
-### This is 👨🏻 My Profile page, View [details](https://hungrypro7.github.io/) ###
+### View [👨🏻 My Profile](https://hungrypro7.github.io/) ###
 
 <br>
 
