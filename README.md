@@ -5,7 +5,7 @@
 ## 🙋🏻‍♂️ Introduction
 ### Thank you for visiting me. 👋
 ### Hello, my name is Chanyoung Lee.   
-### I'm interested in Autonomous Driving, Vision AI, Physical AI.
+### I'm interested in E2E autonomous driving, Vision AI, Physical AI.
 ### View 👨🏻 [my profile](https://hungrypro7.github.io/) ###
 
 <br>
